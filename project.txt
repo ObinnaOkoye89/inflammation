@@ -1,5 +1,3 @@
-
-
 Some initial data analysis to identify how inflammation changes over time after surgery
 
 
@@ -7,6 +5,3 @@ Another change
 
 
 Further changes
-
-
-Here is some new information
